@@ -1,0 +1,23 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "## Description  command line interface application (CLI) THAT ALLOWS THE USER TO GENERATE A MARKDOWN README FILE USING THE INQUIRER PACKAGE  THE APPLICATION ALSO USES NODE NODE ALLOWS FOR SERVER SIDE APPLICATION THAT ALLOWS THE USAGE OF JAVASCRIPT WITHOUT THE BROWSER.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "node": "^16.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stan1651/professional-readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stan1651/professional-readme-generator/issues"
+  },
+  "homepage": "https://github.com/stan1651/professional-readme-generator#readme"
+}

@@ -1,4 +1,3 @@
-// TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 const path = require('path');
@@ -22,7 +21,7 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        message: "What's your project desciption?",
+        message: "What's your project description?",
     },
      {
          type: 'input',
@@ -48,7 +47,7 @@ const questions = [
          type: 'list',
          name: 'licenses',
          message: "Which license would you like to apply?",
-         choices: ['General Public License 2.0','General Public License 3.0','MIT']
+         choices: ['None','General Public License 2.0','General Public License 3.0','MIT']
      },
 
 ];
