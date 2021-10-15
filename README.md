@@ -12,8 +12,9 @@ on time needed for this particular task. it was a fun project for me and I hope 
 ## Installation
 installation requires the use of terminal node packets, inquirer NPM, FS NPM, JavaScript
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
+
 "https://user-images.githubusercontent.com/88246928/137420655-a0363f2d-a1dc-4514-8697-d3cfb376aab0.png"
+
 ##Credits
 Armenuhi Avanesyan- For getting me started on this project and helping me through the opening steps
 
