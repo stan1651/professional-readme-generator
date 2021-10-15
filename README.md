@@ -1,7 +1,8 @@
 # professional-readme-generator
 
 ## Description
-The motivation for this project came 
+The motivation for this project was to create an easy to use README generator to automate a very common part of creating new repositories. This should cut down
+on time needed for this particular task. it was a fun project for me and I hope it useful.
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -12,11 +13,8 @@ The motivation for this project came
 installation requires the use of terminal node packets, inquirer NPM, FS NPM, JavaScript
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-## Credits
+"https://user-images.githubusercontent.com/88246928/137420655-a0363f2d-a1dc-4514-8697-d3cfb376aab0.png"## 
+##Credits
 Armenuhi Avanesyan- For getting me started on this project and helping me through the opening steps
 
 ## License
